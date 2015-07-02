@@ -1,0 +1,3 @@
+Flocker manages Docker containers and data volumes together. When you use Flocker to manage your stateful microservice, your volumes will follow your containers when they move between different hosts in your cluster.
+
+WWW: https://clusterhq.com
